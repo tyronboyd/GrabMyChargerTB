@@ -1,7 +1,5 @@
 # GrabMyChargerTB
 Grab My charger App 
-
-<h1>GMC development stage</h1>
 <h2>List of questions / issues to overcome</h2>
 <ol>
 
